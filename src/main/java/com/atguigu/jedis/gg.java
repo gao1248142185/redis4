@@ -10,5 +10,6 @@ public class gg {
         System.out.println("cc");
         System.out.println("cc");
         System.out.println("cc1");
+        System.out.println("master test");
     }
 }
